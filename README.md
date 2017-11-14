@@ -1,0 +1,2 @@
+# Overlay360
+利用Hugin內部的nona來扭曲成360圖示，最後使用ffmpeg進行overlay
