@@ -22,18 +22,18 @@ Hugin(2):Hugin_2015.0.0_64bit.7z(nona.exe)，有GUI工具可以編輯360影片(�
 
 準備好一張要放入影片的PNG圖片，圖片必須與影片解析度一樣大，且圖示要在正中間。
 
-可以透過一些工具來製作，譬如https://pixlr.com/editor/，新增一張透明底色的圖片，再把想要的小圖示裁減貼到上面去。
+可以透過一些工具來製作，譬如https://pixlr.com/editor/ ，新增一張透明底色的圖片，再把想要的小圖示裁減貼到上面去。
 
 
 ## Creating Hugin Project
 
 以下有幾種產生方式:
 
-(1)透過圖形化介面hugin.exe來產生.pto的檔案，參考http://hugin.sourceforge.net/tutorials/index.shtml。
+(1)透過圖形化介面hugin.exe來產生.pto的檔案，參考http://hugin.sourceforge.net/tutorials/index.shtml
 
-(2)用command-line的pto_gen.exe來產生.pto的檔案，參考https://wiki.panotools.org/Panorama_scripting_in_a_nutshell。
+(2)用command-line的pto_gen.exe來產生.pto的檔案，參考https://wiki.panotools.org/Panorama_scripting_in_a_nutshell
 
-(3)如果熟悉參數也可以直接開啟記事本來產生.pto的檔案，參考http://hugin.sourceforge.net/docs/nona/nona.txt。
+(3)如果熟悉參數也可以直接開啟記事本來產生.pto的檔案，參考http://hugin.sourceforge.net/docs/nona/nona.txt
 
 產生後的專案用記事本打開，會如下:
 
