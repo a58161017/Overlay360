@@ -48,11 +48,11 @@ i f4 v360 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 
 
 上述提到的r0 p0 y0分別為roll=0(degree) pitch=0 yaw=0:
 
-roll:以z軸作為旋轉，介於-180~180(degree)，本專案無作用
+roll:以z軸作為旋轉，介於-180 ~ 180(degree)，本專案無作用
 
-pitch:以x軸作為旋轉，介於-90~90(degree)，以平面圖正中間為(0,0)，y向上會從0~90(degree)，y向下會從0~-90(degree)
+pitch:以x軸作為旋轉，介於-90 ~ 90(degree)，以平面圖正中間為(0,0)，y向上會從0 ~ 90(degree)，y向下會從0 ~ -90(degree)
 
-yaw:以y軸作為旋轉，介於-180~180(degree)，以平面圖正中間為(0,0)，x向右會從0~180(degree)，x向左會從0~-180(degree)
+yaw:以y軸作為旋轉，介於-180 ~ 180(degree)，以平面圖正中間為(0,0)，x向右會從0 ~ 180(degree)，x向左會從0 ~ -180(degree)
 
 
 ## Encode Hugin Project
